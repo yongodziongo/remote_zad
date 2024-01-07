@@ -1,1 +1,2 @@
 jakieś readme
+edycja edycja
